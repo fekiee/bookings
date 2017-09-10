@@ -5,7 +5,7 @@
  */
 /**
  *
- * @author Jinger Perez Student #2013665
+ * @author fekiee
  */
 //Importings necessary to be able to write on a txt file
 
